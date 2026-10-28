@@ -10,6 +10,10 @@
 </p>
 
 <p align="center">
+  🔥 <b>Disclaimer:</b> This project is 100% pure, unadulterated <b>Vibe Coding</b>. Written through live interactive AI pair-programming, relentless experimentation on real TV hardware, and pure soul. It just works and it vibes hard.
+</p>
+
+<p align="center">
   <a href="#-english">English</a> •
   <a href="#-русский">Русский</a>
 </p>
@@ -87,6 +91,9 @@ adb install -r app/build/outputs/apk/debug/app-debug.apk
 ---
 
 ## 🇷🇺 Русский
+
+> [!NOTE]
+> 🔥 **Чистый вайбкодинг:** Этот проект — результат 100% живого вайбкодинга с ИИ, написанный на чистом энтузиазме, тестах прямо на живом слабом телевизоре и желании сделать нормальную вещь без лагов и свистоперделок. Оно просто работает и кайфово ощущается.
 
 ### ✨ Особенности и преимущества
 
